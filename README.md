@@ -1,4 +1,4 @@
 # dw_Matrix
 The Matrix Project - DataWorhshop
 
-This readme is going to be updated.
+Introduction to simple models and machine laerning based on data on men shoes prices.
